@@ -1,5 +1,5 @@
 public class Person {
-  private String name="GIT"; // private = restricted access
+  private String name="GitCommit"; // private = restricted access
 
   // Getter
   public String getName() {
